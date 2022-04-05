@@ -1,0 +1,44 @@
+.signup{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    width: max-content;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px 0px #bfbfbf;
+    text-align: center;
+}
+
+/* .border{
+} */
+input{
+    width: 300px;
+    height: 30px;
+    font-size: 15px;
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid black;
+    outline: none;
+}
+
+.daftar{
+    width: 324px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px 0px #a6a6a6;
+
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.nama{
+    width: 135px;
+    margin: 0 2px ;
+}
+
+.flh2{
+    color: black;
+}

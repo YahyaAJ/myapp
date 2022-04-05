@@ -1,0 +1,33 @@
+.header {
+    padding: 1px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: crimson;
+    
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+}
+
+ul li {
+    margin-left: 20px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+h3 {
+    font-size: 25px;
+    padding-left: 50px;
+    color: #fff;
+}
